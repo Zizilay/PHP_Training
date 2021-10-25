@@ -1,0 +1,32 @@
+/*==========================HEADER*/
+/* .hederimg{
+	margin-top:15px;
+	margin-left:15px;
+} */
+/*===================================*/
+.input-field{
+	border: 3px groove #ffc252;
+	border-radius: 10px;
+	width: 25em;
+	padding: .5em 2em 2em 2em;
+	margin:1em 5em 5em 3em;
+	height:26em;
+}
+.qr-field{
+	border: 3px groove #ffc252;
+	border-radius: 10px;
+	width: 24em;
+	height:26em;
+	padding: .5em 2em 2em 2em;
+	margin:-31em 3em 5em;
+	float:right;
+}
+.myoutput{
+	border: 3px groove #b0c24a;
+	border-radius: 10px;
+	margin:7em 5em 0em 5em;
+}
+h3{
+	text-align:center;
+	color: #92a1cf;
+}
